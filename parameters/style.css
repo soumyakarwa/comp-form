@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  background-color: #ffffff;
+  font-family: "Helvetica";
+}
+
+#svgContainer {
+  width: 100vw;
+  height: 100vh;
+}
+
+.slider-container {
+  text-align: center;
+  color: black;
+  position: absolute;
+  top: 2%;
+  left: 50%;
+  transform: translateX(-50%);
+}
