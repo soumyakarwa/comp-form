@@ -1,0 +1,24 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Barlow";
+}
+
+canvas {
+  display: block;
+}
+
+select {
+  border: 1px solid black;
+  padding: 0.25rem;
+  margin-bottom: 1rem;
+  background-color: white;
+  font-family: "Barlow";
+  width: 90px;
+}
+
+@font-face {
+  font-family: "Barlow";
+  src: url("./Barlow/Barlow-Regular.ttf");
+}
