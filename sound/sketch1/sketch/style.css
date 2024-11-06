@@ -1,0 +1,25 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Barlow";
+}
+
+canvas {
+  display: block;
+}
+
+button {
+  background-color: black;
+  color: white;
+  font-family: "Barlow";
+  padding-bottom: 3px;
+  border: none;
+  border-radius: 0;
+  cursor: pointer;
+}
+
+@font-face {
+  font-family: "Barlow";
+  src: url("./Barlow/Barlow-Regular.ttf");
+}

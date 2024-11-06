@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml"
+    xmlns:ttm="http://www.w3.org/ns/ttml#metadata"
+    xmlns:tts="http://www.w3.org/ns/ttml#styling">
+
+<!-- Tools used: LyricSyncOnline, Website: www.lyricsynconline.com -->
+
+<ttm:metadata>
+    <ttm:tool>LyricSyncOnline</ttm:tool>
+    <ttm:website>www.lyricsynconline.com</ttm:website>
+</ttm:metadata>
+
+<body>
+    <div>
+        <p xmlns:tts="http://www.w3.org/ns/ttml#styling" begin="0:00:00.000" end="00:03:51.823" tts:origin="10% 10%" tts:extent="80% 80%" tts:textAlign="center">
+            <span>Be More</span>
+        </p>
+        <p xmlns:tts="http://www.w3.org/ns/ttml#styling" begin="0:00:00.000" end="00:03:51.823" tts:origin="10% 20%" tts:extent="80% 80%" tts:textAlign="center">
+            <span>Be More</span>
+        </p>
+        <p xmlns:tts="http://www.w3.org/ns/ttml#styling" begin="0:00:00.000" end="00:03:51.823" tts:origin="10% 30%" tts:extent="80% 80%" tts:textAlign="center">
+            <span>Be More</span>
+        </p>
+    </div>
+    <div>
+        <p begin="00:00:09.658" end="00:00:14.342" tts:origin="10% 50%" tts:extent="80% 80%" tts:textAlign="center">
+            <span>Oh</span>
+        </p>
+    </div>
+    <div>
+        <p begin="00:00:14.342" end="00:00:22.473" tts:origin="10% 50%" tts:extent="80% 80%" tts:textAlign="center">
+            <span>It must be more than I need you</span>
+        </p>
+    </div>
+    <div>
+        <p begin="00:00:22.473" end="00:00:29.472" tts:origin="10% 50%" tts:extent="80% 80%" tts:textAlign="center">
+            <span>More than I love you</span>
+        </p>
+    </div>
+    <div>
+        <p begin="00:00:29.472" end="00:00:36.811" tts:origin="10% 50%" tts:extent="80% 80%" tts:textAlign="center">
+            <span>Be more than wishes on stars</span>
+        </p>
+    </div>
+    <div>
+        <p begin="00:00:36.811" end="00:00:42.822" tts:origin="10% 50%" tts:extent="80% 80%" tts:textAlign="center">
+            <span>High above you</span>
+        </p>
+    </div>
+    <div>
+        <p begin="00:00:42.822" end="00:00:47.089" tts:origin="10% 50%" tts:extent="80% 80%" tts:textAlign="center">
+            <span>If words could just hold you</span>
+        </p>
+    </div>
+    <div>
+        <p begin="00:00:47.089" end="00:00:50.746" tts:origin="10% 50%" tts:extent="80% 80%" tts:textAlign="center">
+            <span>Tell me you feel me</span>
+        </p>
+    </div>
+    <div>
+        <p begin="00:00:50.746" end="00:00:54.451" tts:origin="10% 50%" tts:extent="80% 80%" tts:textAlign="center">
+            <span>Oh, just to know you</span>
+        </p>
+    </div>
+    <div>
+        <p begin="00:00:54.451" end="00:00:57.831" tts:origin="10% 50%" tts:extent="80% 80%" tts:textAlign="center">
+            <span>Tell me you see me</span>
+        </p>
+    </div>
+    <div>
+        <p begin="00:00:57.831" end="00:01:01.624" tts:origin="10% 50%" tts:extent="80% 80%" tts:textAlign="center">
+            <span>I couldn't have said it (said it)</span>
+        </p>
+    </div>
+    <div>
+        <p begin="00:01:01.624" end="00:01:05.582" tts:origin="10% 50%" tts:extent="80% 80%" tts:textAlign="center">
+            <span>You must have just read it (read it)</span>
+        </p>
+    </div>
+    <div>
+        <p begin="00:01:05.582" end="00:01:09.286" tts:origin="10% 50%" tts:extent="80% 80%" tts:textAlign="center">
+            <span>In my eyes</span>
+        </p>
+    </div>
+    <div>
+        <p begin="00:01:09.286" end="00:01:11.745" tts:origin="10% 50%" tts:extent="80% 80%" tts:textAlign="center">
+            <span>Darling, please</span>
+        </p>
+    </div>
+    <div>
+        <p begin="00:01:11.745" end="00:01:16.681" tts:origin="10% 50%" tts:extent="80% 80%" tts:textAlign="center">
+            <span>Let it be more</span>
+        </p>
+    </div>
+    <div>
+        <p begin="00:01:16.681" end="00:01:20.750" tts:origin="10% 50%" tts:extent="80% 80%" tts:textAlign="center">
+            <span>Be more</span>
+        </p>
+    </div>
+    <div>
+        <p begin="00:01:20.750" end="00:01:27.259" tts:origin="10% 50%" tts:extent="80% 80%" tts:textAlign="center">
+            <span>Be more</span>
+        </p>
+    </div>
+    <div>
+        <p begin="00:01:27.259" end="00:01:35.499" tts:origin="10% 50%" tts:extent="80% 80%" tts:textAlign="center">
+            <span>It must be more than I want you</span>
+        </p>
+    </div>
+    <div>
+        <p begin="00:01:35.499" end="00:01:42.706" tts:origin="10% 50%" tts:extent="80% 80%" tts:textAlign="center">
+            <span>More than I touch you</span>
+        </p>
+    </div>
+    <div>
+        <p begin="00:01:42.706" end="00:01:49.140" tts:origin="10% 50%" tts:extent="80% 80%" tts:textAlign="center">
+            <span>Be more than dancing in raindrops</span>
+        </p>
+    </div>
+    <div>
+        <p begin="00:01:49.140" end="00:01:56.291" tts:origin="10% 50%" tts:extent="80% 80%" tts:textAlign="center">
+            <span>Falling to touch you, whoa, just to touch you, oh</span>
+        </p>
+    </div>
+    <div>
+        <p begin="00:01:56.291" end="00:01:59.831" tts:origin="10% 50%" tts:extent="80% 80%" tts:textAlign="center">
+            <span>If words could just hold you</span>
+        </p>
+    </div>
+    <div>
+        <p begin="00:01:59.831" end="00:02:03.845" tts:origin="10% 50%" tts:extent="80% 80%" tts:textAlign="center">
+            <span>Tell me you feel me</span>
+        </p>
+    </div>
+    <div>
+        <p begin="00:02:03.845" end="00:02:07.521" tts:origin="10% 50%" tts:extent="80% 80%" tts:textAlign="center">
+            <span>Oh, just to know you</span>
+        </p>
+    </div>
+    <div>
+        <p begin="00:02:07.521" end="00:02:11.047" tts:origin="10% 50%" tts:extent="80% 80%" tts:textAlign="center">
+            <span>Tell me you see me, yeah</span>
+        </p>
+    </div>
+    <div>
+        <p begin="00:02:11.047" end="00:02:14.824" tts:origin="10% 50%" tts:extent="80% 80%" tts:textAlign="center">
+            <span>I couldn't have said it (said it)</span>
+        </p>
+    </div>
+    <div>
+        <p begin="00:02:14.824" end="00:02:18.758" tts:origin="10% 50%" tts:extent="80% 80%" tts:textAlign="center">
+            <span>You must have just read it</span>
+        </p>
+    </div>
+    <div>
+        <p begin="00:02:18.758" end="00:02:25.843" tts:origin="10% 50%" tts:extent="80% 80%" tts:textAlign="center">
+            <span>In my eyes</span>
+        </p>
+    </div>
+    <div>
+        <p begin="00:02:25.843" end="00:02:30.078" tts:origin="10% 50%" tts:extent="80% 80%" tts:textAlign="center">
+            <span>Let it be more</span>
+        </p>
+    </div>
+    <div>
+        <p begin="00:02:30.078" end="00:02:34.048" tts:origin="10% 50%" tts:extent="80% 80%" tts:textAlign="center">
+            <span>Be more</span>
+        </p>
+    </div>
+    <div>
+        <p begin="00:02:34.048" end="00:02:39.764" tts:origin="10% 50%" tts:extent="80% 80%" tts:textAlign="center">
+            <span>Be more</span>
+        </p>
+    </div>
+    <div>
+        <p begin="00:02:39.764" end="00:02:44.931" tts:origin="10% 50%" tts:extent="80% 80%" tts:textAlign="center">
+            <span>Darling, be more</span>
+        </p>
+    </div>
+    <div>
+        <p begin="00:02:44.931" end="00:02:48.691" tts:origin="10% 50%" tts:extent="80% 80%" tts:textAlign="center">
+            <span>Be more</span>
+        </p>
+    </div>
+    <div>
+        <p begin="00:02:48.691" end="00:03:09.428" tts:origin="10% 50%" tts:extent="80% 80%" tts:textAlign="center">
+            <span>Be more</span>
+        </p>
+    </div>
+    <div>
+        <p begin="00:03:09.428" end="00:03:13.280" tts:origin="10% 50%" tts:extent="80% 80%" tts:textAlign="center">
+            <span>If words could just hold you</span>
+        </p>
+    </div>
+    <div>
+        <p begin="00:03:13.280" end="00:03:16.944" tts:origin="10% 50%" tts:extent="80% 80%" tts:textAlign="center">
+            <span>Tell me you feel me</span>
+        </p>
+    </div>
+    <div>
+        <p begin="00:03:16.944" end="00:03:20.632" tts:origin="10% 50%" tts:extent="80% 80%" tts:textAlign="center">
+            <span>Oh, just to know you</span>
+        </p>
+    </div>
+    <div>
+        <p begin="00:03:20.632" end="00:03:24.123" tts:origin="10% 50%" tts:extent="80% 80%" tts:textAlign="center">
+            <span>Tell me you see me</span>
+        </p>
+    </div>
+    <div>
+        <p begin="00:03:24.123" end="00:03:27.867" tts:origin="10% 50%" tts:extent="80% 80%" tts:textAlign="center">
+            <span>I couldn't have said it</span>
+        </p>
+    </div>
+    <div>
+        <p begin="00:03:27.867" end="00:03:31.976" tts:origin="10% 50%" tts:extent="80% 80%" tts:textAlign="center">
+            <span>You must have just read it</span>
+        </p>
+    </div>
+    <div>
+        <p begin="00:03:31.976" end="00:03:35.532" tts:origin="10% 50%" tts:extent="80% 80%" tts:textAlign="center">
+            <span>In my eyes</span>
+        </p>
+    </div>
+    <div>
+        <p begin="00:03:35.532" end="00:03:38.205" tts:origin="10% 50%" tts:extent="80% 80%" tts:textAlign="center">
+            <span>Darling, please</span>
+        </p>
+    </div>
+    <div>
+        <p begin="00:03:38.205" end="00:00:00.000" tts:origin="10% 50%" tts:extent="80% 80%" tts:textAlign="center">
+            <span>Let it be more</span>
+        </p>
+    </div>
+</body>
+</tt>
