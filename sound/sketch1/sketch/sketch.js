@@ -4,7 +4,7 @@ let currentLyricIndex = 0;
 let isAudioPlaying = false;
 let ellipseCenter = { x: 0, y: 0 };
 let radius;
-let barlow;
+let roboto;
 let startAngleText1;
 let startAngleText2;
 let arcs = [];
@@ -16,7 +16,7 @@ let blueColor = "#6CB4EE";
 function preload() {
   audio = loadSound("be-more-stephen-sanchez.mp3");
   lyricsData = loadJSON("./timestamps.json");
-  barlow = loadFont("./Barlow/Barlow-Regular.ttf");
+  roboto = loadFont("./Roboto-Mono/RobotoMono-VariableFont_wght.ttf");
 }
 
 function setup() {
@@ -24,7 +24,7 @@ function setup() {
   ellipseCenter.x = width / 2;
   ellipseCenter.y = height / 2;
   radius = min(width, height) - 10;
-  textFont(barlow);
+  textFont(roboto);
   textSize(16);
   textAlign(CENTER, TOP);
   lyricsData = Object.values(lyricsData);
@@ -46,16 +46,16 @@ function draw() {
 
   drawCircles();
   drawTextAlongEllipse(
-    "Be More ---------",
+    "Be More ---------------",
     startAngleText1,
-    6.5,
+    7.5,
     cdRadius,
     ellipseCenter
   );
   drawTextAlongEllipse(
-    "Stephen Sanchez ---------",
+    "Stephen Sanchez -------",
     startAngleText2,
-    6.5,
+    7.5,
     cdRadius,
     ellipseCenter
   );
@@ -184,8 +184,8 @@ function drawStoredArcs(r) {
 }
 
 function drawWobblyShapes() {
-  let wobbleX = (noise(frameCount * 0.05) - 0.5) * 2;
-  let wobbleY = (noise(frameCount * 0.05 + 100) - 0.5) * 2;
+  let wobbleX = (noise(frameCount * 0.05) - 0.5) * 10;
+  let wobbleY = (noise(frameCount * 0.05 + 100) - 0.5) * 10;
 
   push();
   noStroke();
